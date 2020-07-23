@@ -2,7 +2,7 @@
 
 # [reacthooks]breaking-bad-app
 
-Это приложение React использует [breaking bad API ](https://breakingbadapi.com/documentation) и выводит информацию о персонажах в виде карточек. В приложении есть фильтр по персонажам.
+Это приложение React использует [breaking bad API ](https://breakingbadapi.com/documentation) и выводит информацию о персонажах в виде карточек. В приложении есть фильтр по персонажам. Смотреть на [codesandbox.io](https://mmxce.csb.app/)
 
 ### Быстрый старт
 
